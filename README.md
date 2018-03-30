@@ -1,8 +1,16 @@
 # ESP8266_PS4_RetroGamerFirm
 Firmware for chip ESP8266 including PS4 4.55 Exploits
 
+Spanish Installation Instructions
+==================================
+
 Descargar el retrogamerfirm.bin
 Instalar haciendo uso del instalador.
+Puedes utilizar este instalador que te dejo aquí para versiones Windows x86, Windows x86_64, y MacOSX.
+
+https://github.com/marcelstoer/nodemcu-pyflasher/releases/tag/v3.0
+
+
 
 Una vez en PS4:
 
@@ -20,5 +28,30 @@ Continuar con los valores por defecto hasta completar la configuración de red.
 
 Por último ir a la Guía de Usuario y esperar a que cargue la web desde el dispositivo ESP8266
 
+English Installation Instructions
+==================================
 
-Más información en breve.
+Download retrogamerfirm.bin you can get from this repository.
+Flash ESP8266 firmware using next flasher.
+You can flash the firmware using Windows x86, Windows x86_64, or MacOSX.
+
+https://github.com/marcelstoer/nodemcu-pyflasher/releases/tag/v3.0
+
+Once running PS4:
+
+Settings -> Networking setup.
+
+Choose option Customized.
+
+Select WiFi network identified by PS4Wifi. ( Password not required )
+
+Select Automatic IP.
+
+DNS IP, Set values for Primary and Secondary DNS to: 10.10.10.1
+
+Set next options to their default values, until you reach the end of the networking setup.
+
+Finally go to the Users Guide, in the Settings. The website installed into ESP8266 firmware will be shown.
+
+
+Ver: 0.8
