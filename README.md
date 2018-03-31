@@ -4,8 +4,12 @@ Firmware for chip ESP8266 including PS4 4.55 Exploits
 Spanish Installation Instructions
 ==================================
 
-Descargar el retrogamerfirm.bin
+Descargar el paquete ZIP de este repositorio
+
+Usar retrogamerfirm.bin si quieres el firmware en español
+
 Instalar haciendo uso del instalador.
+
 Puedes utilizar este instalador que te dejo aquí para versiones Windows x86, Windows x86_64, y MacOSX.
 
 https://github.com/marcelstoer/nodemcu-pyflasher/releases/tag/v3.0
@@ -31,8 +35,12 @@ Por último ir a la Guía de Usuario y esperar a que cargue la web desde el disp
 English Installation Instructions
 ==================================
 
-Download retrogamerfirm.bin you can get from this repository.
+Download the ZIP package of this repository
+
+Use retrogamerfirm_en.bin if you want firmware in english language.
+
 Flash ESP8266 firmware using next flasher.
+
 You can flash the firmware using Windows x86, Windows x86_64, or MacOSX.
 
 https://github.com/marcelstoer/nodemcu-pyflasher/releases/tag/v3.0
