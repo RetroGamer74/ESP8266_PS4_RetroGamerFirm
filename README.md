@@ -1,6 +1,9 @@
 # ESP8266_PS4_RetroGamerFirm
 Firmware for chip ESP8266 including PS4 4.55 Exploits
 
+This firmware includes next payloads:
+AppToUSB, HEN, HEN-VR, DUMPER, BACKUP, FTP, Enable Browser, Block FW Updates, Unblock FW Updates, Arabic Guy v1.0 GTA V ModMenu, WildeModz v.1.1 GTA V ModMenu, Lamance v.0.7 GTA V ModMenu.
+
 Spanish Installation Instructions
 ==================================
 
