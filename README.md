@@ -1,4 +1,4 @@
-# ESP8266_PS4_RetroGamerFirm
+# Firmware V2 ( Orange and Blue Style ) for chip ESP8266 including PS4 4.55 Exploits
 Firmware for chip ESP8266 including PS4 4.55 Exploits
 
 This firmware includes next payloads:
